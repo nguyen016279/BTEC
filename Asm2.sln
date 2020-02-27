@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Asm2", "Asm2\Asm2.csproj", "{576A259C-9D59-4EC0-A0B9-5894FA8782C0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{576A259C-9D59-4EC0-A0B9-5894FA8782C0}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{576A259C-9D59-4EC0-A0B9-5894FA8782C0}.Debug|anycpu.Build.0 = Debug|anycpu
+		{576A259C-9D59-4EC0-A0B9-5894FA8782C0}.Release|anycpu.ActiveCfg = Release|anycpu
+		{576A259C-9D59-4EC0-A0B9-5894FA8782C0}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+EndGlobal
