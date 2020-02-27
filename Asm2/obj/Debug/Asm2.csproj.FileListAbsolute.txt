@@ -1,0 +1,5 @@
+/Users/admin/Projects/Asm2/Asm2/obj/Debug/Asm2.csprojAssemblyReference.cache
+/Users/admin/Projects/Asm2/Asm2/bin/Debug/Asm2.exe
+/Users/admin/Projects/Asm2/Asm2/bin/Debug/Asm2.pdb
+/Users/admin/Projects/Asm2/Asm2/obj/Debug/Asm2.exe
+/Users/admin/Projects/Asm2/Asm2/obj/Debug/Asm2.pdb
